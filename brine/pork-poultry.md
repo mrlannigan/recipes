@@ -3,12 +3,16 @@ Pork & Poultry Brine
 
 Provided by @mikhailwall
 
+### Ingredients
+
 * 2 cups apple cider vinegar
 * 1 cup salt
 * 1 cup brown sugar
 * 1 tablespoon whole black peppercorns
 * 1 tablespoon mustard powder
 * 3 cups (min) ice cubes
+
+### Directions
 
 1. Measure the vinegar into a saucepan and bring to a boil. In a sealable plastic container, combine the salt, brown sugar, peppercorns, and mustard powder.
 2. Pour the hot vinegar into the container, and stir to dissolve.
